@@ -6,7 +6,7 @@
 I am studyng to become a Bachelor of Software Engineer. I have small projects in JavaScript. 
 
 - 🌱 I am currently learning more about JS, React and various frameworks. 
-- :tulip: As me about anything. I will try to help you as much as I can. 
+- :tulip: Ask me about anything. I will try to help you as much as I can. 
 - :cupcake: Quote: Só existe caminho sem saída se você não sabe olhar para trás. 
 - :earth_americas: How to reach me: https://www.linkedin.com/in/th%C3%A2mara-cordeiro-462692191/
 
