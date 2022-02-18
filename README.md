@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Thâmara, if you can call me by my nickname: Tantan
+## I'm Thâmara.
 
 💙 Programming - 🖤 Books - 💙 Anime
 
