@@ -3,7 +3,7 @@
 
 💙 Programming - 🖤 Books - 💙 Anime
 
-I am studyng to become a Bachelor of Software Engineer. I have small projects in JavaScript. 
+I am studyng to become a Bachelor of Software Engineer. I have small projects in ABAP. 
 
 - 🌱 I am currently learning more about ABAP.
 - :tulip: Ask me about anything. I will try to help you as much as I can. 
