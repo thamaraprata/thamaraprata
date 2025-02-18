@@ -3,9 +3,8 @@
 
 💙 Programming - 🖤 Books - 💙 Anime
 
-I am studyng to become a Bachelor of Software Engineer. I have small projects in ABAP. 
+I am studyng to become a Bachelor of Software Engineer.
 
-- 🌱 I am currently learning more about ABAP.
 - :tulip: Ask me about anything. I will try to help you as much as I can. 
 - :cupcake: Quote: Só existe caminho sem saída se você não sabe olhar para trás. 
 - :earth_americas: How to reach me: https://www.linkedin.com/in/th%C3%A2mara-cordeiro-462692191/
